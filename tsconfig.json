@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es2020",
+      "module": "commonjs",
+      "lib": ["esnext", "dom"], // Add "dom" here
+      "strict": true,
+      "esModuleInterop": true
+    }
+  }
+  

@@ -1,0 +1,3 @@
+lcook cookies.json
+goto instagram.com
+search danial.zulfiqar
